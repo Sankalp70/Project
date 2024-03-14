@@ -1,0 +1,184 @@
+.navContainer {
+  position: relative;
+  display: flex;
+  float: left;
+  height: 54.54px;
+  left: 338px;
+  border-radius: 9px;
+  bottom: 770px;
+  width: 1352px;
+  border: 2px solid #d3d3d3;
+}
+.navContainer h3 {
+  position: relative;
+  left: 20px;
+  top: 16px;
+  font-size: 20px;
+}
+
+.searchBar input {
+  position: relative;
+  left: 953px;
+  top: 11.16px;
+  border-radius: 8px;
+  height: 24px;
+  padding: 3px;
+  border: 2px solid #d3d3d3;
+}
+.searchBar input::placeholder {
+  position: relative;
+  left: 30px;
+}
+.searchicon {
+  position: relative;
+  width: 0px;
+  left: 781.77px;
+  top: 17.56px;
+  font-size: 21.45px;
+}
+.helpIcon {
+  position: relative;
+  width: 23px;
+  height: 20px;
+  left: 962.67px;
+  border-radius: 8px;
+  top: 13.75px;
+  padding: 3px;
+  font-size: 18.45px;
+  border: 2px solid #d3d3d3;
+}
+.helpIcon:hover{
+  background-color: #EAECEE;
+  cursor: pointer;
+}
+.settingIcon {
+  position: relative;
+  left: 978px;
+  font-size: 20.45px;
+  padding: 3px;
+  border: 2px solid #d3d3d3;
+  width: 23px;
+  height: 20px;
+  top: 13.75px;
+  border-radius: 8px;
+}
+.settingIcon:hover{
+  background-color: #EAECEE;
+  cursor: pointer;
+}
+.navBar {
+  position: relative;
+  display: flex;
+  width: 1352px;
+  height: 54.54px;
+  left: 339px;
+  bottom: 772px;
+  border: 2px solid #d3d3d3;
+  border-radius: 8px;
+}
+.allBrands p {
+  position: relative;
+  display: flex;
+  gap: 4px;
+  top: 11.56px;
+  left: 22.45px;
+  border-radius: 8px;
+  padding: 4.67px;
+  border: 2px solid #d3d3d3;
+}
+.allBrands p:hover{
+  background-color: #EAECEE;
+  cursor: pointer;
+}
+.desk p {
+  position: relative;
+  display: flex;
+  gap: 4px;
+  left: 40.45px;
+  top: 11.56px;
+  border: 2px solid #d3d3d3;
+  border-radius: 8px;
+  padding: 4.37px;
+}
+.desk p:hover{
+  background-color: #EAECEE;
+  cursor: pointer;
+}
+.tags p {
+  position: relative;
+  display: flex;
+  gap: 4px;
+  left: 60.15px;
+  top: 11.56px;
+  border: 2px solid #d3d3d3;
+  border-radius: 8px;
+  padding: 4.37px;
+}
+.tags p:hover{
+  background-color: #EAECEE;
+  cursor: pointer;
+}
+.sort p {
+  position: relative;
+  display: flex;
+  gap: 6px;
+  left: 79.15px;
+  top: 11.56px;
+  color: grey;
+  border: 2px solid #d3d3d3;
+  border-radius: 8px;
+  padding: 4.77px;
+}
+.sort p:hover{
+  background-color: #EAECEE;
+  cursor: pointer;
+}
+.filter p {
+  position: relative;
+  display: flex;
+  gap: 4px;
+  height: 20px;
+  left: 98.45px;
+  top: 11.56px;
+  color: grey;
+  border: 2px solid #d3d3d3;
+  border-radius: 8px;
+  padding: 3.77px;
+}
+.filter p:hover{
+  background-color: #EAECEE;
+  cursor: pointer;
+}
+.meeting p {
+  position: relative;
+  display: flex;
+  gap: 6px;
+  height: 20px;
+  left: 682.45px;
+  top: 10.73px;
+  border: 2px solid #d3d3d3;
+  border-radius: 8px;
+  padding: 4.77px;
+}
+.meeting p:hover{
+  background-color: #EAECEE;
+  cursor: pointer;
+}
+.importExport p {
+  position: relative;
+  display: flex;
+  gap: 8px;
+  height: 20px;
+  left: 705.45px;
+  top: 10.73px;
+  border: 2px solid #d3d3d3;
+  border-radius: 8px;
+  padding: 4.77px;
+}
+.importExport p:hover{
+  background-color: #EAECEE;
+  cursor: pointer;
+}
+
+
+

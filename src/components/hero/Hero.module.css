@@ -1,0 +1,90 @@
+.tableBody {
+  position: relative;
+  bottom: 774.36px;
+  left: 339px;
+}
+.tableBody table {
+  border-collapse: collapse;
+}
+.tableBody th {
+  height: 38.86px;
+  border: 2px solid #d3d3d3;
+  color: gray;
+}
+.brand td {
+  position: relative;
+  height: 38.86px;
+  left: 36px;
+  gap: 10px;
+  padding-left: 20px;
+  align-items: flex-end;
+  border: 2px solid #d3d3d3;
+}
+
+.brand h4 {
+  position: relative;
+  right: 48px;
+  top: 0;
+  height: 3px;
+  color: #5b2c6f;
+  font-weight: 500;
+  border-radius: 8px;
+  width: 95px;
+  border: 1px solid #d2b4de;
+  background-color: #e8daef;
+}
+.hashtag p {
+  position: relative;
+  right: 42.21px;
+  width: 163px;
+  border-radius: 8px;
+  color: #707b7c;
+  background-color: #e5e8e8;
+  border: 1px solid #b2babb;
+}
+.tags p {
+  position: relative;
+  right: 41.21px;
+  border-radius: 8px;
+  color: #0b5345;
+  border: 1px solid #82e0aa;
+  background-color: #abebc6;
+}
+
+.disneytags span {
+  position: relative;
+  right: 41.21px;
+  border-radius: 8px;
+  color: #7b241c;
+  border: 1px solid #ba4a00;
+  background-color: #e59866;
+}
+.evermoteTags span{
+  position: relative;
+  right: 41.21px;
+  border-radius: 8px;
+  color: #566573 ;
+  border: 1px solid #808B96;
+  background-color: #D5D8DC ;
+}
+
+.brand h5{
+  position: relative;
+  bottom: 23.34px;
+  left: 61px;
+  height: 16px;
+  padding: 2px;
+  color: #5b2c6f;
+  font-weight: 500;
+  border-radius: 8px;
+  width: 87px;
+  border: 1px solid #d2b4de;
+  background-color: #e8daef;
+}
+.tableBody th:hover{
+  background-color: #EAECEE;
+  cursor: pointer;
+}
+td:hover{
+  cursor: pointer;
+}

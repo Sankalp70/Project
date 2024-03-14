@@ -1,0 +1,104 @@
+.container{
+    position: relative;
+    bottom: 775.75px;
+    left: 339px;
+    width: 1350.67px;
+    border-radius: 8px;
+    height: 159.82px;
+    border: 2px solid  #d3d3d3;
+}
+
+
+.footerContainer{
+    position: relative;
+    display: flex;
+    bottom: 840px;
+    right: -780px;
+    height: 47px;
+    gap: 20px;
+    border-radius: 8px;
+    width: 460px;
+    border: 2px solid  #d3d3d3;
+}
+.selected p{
+  display: flex;
+  position: relative;
+  top: -15.67px;
+  color: gray;
+   left: 30px;
+   gap: 6px;
+}
+.selected button{
+    position: relative;
+    display: flex;
+    padding-bottom: 18px;
+    padding-left: 5px;
+    gap: 8px;
+    top: 7.97px;
+    height: 12px;
+    width: 8px;
+    color: white;
+    background-color: black;
+}
+
+.archive{
+    position: relative;
+    display: flex;
+    gap: 6px;
+    top: 7.97px;
+    left: 28px;
+    padding: 3.65px;
+    width: 78px;
+    height: 20px;
+    color: grey;
+    border-radius: 8px;
+    border: 2px solid  #d3d3d3;
+}
+.delete{
+    position: relative;
+    display: flex;
+    top: 7.97px;
+    left: 30px;
+    padding: 3.65px;
+    gap: 3px;
+    width: 78px;
+    height: 20px;
+    color: red;
+    border-radius: 8px;
+    border: 2px solid  #d3d3d3;
+}
+.more{
+    position: relative;
+    display: flex;
+    gap: 3px;
+    padding: 3.65px;
+    width: 58px;
+    left: 37.34px;
+    top: 7.97px;
+    height: 20px;
+    border-radius: 8px;
+    border: 2px solid  #d3d3d3;
+}
+.cross{
+    position: relative;
+    left: 38.67px;
+    top: 12.54px;
+    font-size: 22px;
+}
+.more:hover{
+    cursor: pointer;
+  background-color: #d3d3d3;
+}
+
+.delete:hover{
+    cursor: pointer;
+  background-color: #d3d3d3;
+}
+.archive:hover{
+    cursor: pointer;
+  background-color: #d3d3d3;
+}
+
+.cross:hover{
+    cursor: pointer;
+}
